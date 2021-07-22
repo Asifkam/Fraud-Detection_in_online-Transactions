@@ -3,6 +3,7 @@ Detecting Frauds in Online Transactions using Supervised Learning and applying O
 simply applying Classification Algorithm may result in Overfitting
 
 #Columns:
+
 step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
 
 type - CASH-IN, CASH-OUT, DEBIT, PAYMENT and TRANSFER.
