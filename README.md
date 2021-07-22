@@ -2,7 +2,7 @@
 Detecting Frauds in Online Transactions using Supervised Learning and applying Over Sampling as the ratio of Frauds is less than 0.00005 thus, 
 simply applying Classification Algorithm may result in Overfitting
 
-#Columns:
+Columns:
 
 step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
 
