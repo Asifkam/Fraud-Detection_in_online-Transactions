@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/72183359/134791559-66367dfb-e5b8-4994-b570-d2390647f4f3.png)
+
 # Fraud-Detection_in_online-Transactions
 Detecting Frauds in Online Transactions using Supervised Learning and applying Over Sampling as the ratio of Frauds is less than 0.00005 thus, 
 simply applying Classification Algorithm may result in Overfitting.
